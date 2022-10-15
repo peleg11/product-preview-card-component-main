@@ -89,7 +89,7 @@ img {
   left: 50%;
   transform: translate(-50%, 0);
 }
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 420px) {
   .card {
     height: 90%;
     width: 320px;
